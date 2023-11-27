@@ -1,4 +1,5 @@
-## express 환경에서 graphql 실습
+## graphql study
+## 브렌치별 마이그레이션 확인
 
 ```
 git clone https://github.com/rg5668/express-graphql.git
